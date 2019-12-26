@@ -7,7 +7,7 @@
 
 * Quickly spin up a Create-React-App :bicyclist:
 
-* Install the Flare React package by running the following in your terminal:
+* Install the Flare React package 📦 by running the following in your terminal:
   `npm install flare-react`
   (Flare was rebranded, now known as Rive)
   
@@ -15,7 +15,7 @@
    in the component file where you will be importing the animation.
    (I imported the animation in the <App /> Class component)
 
-* Initialize the artboard:
+* Initialize the artboard :black_square_button: :
   ```class flareController extends FlareComponent.Controller {
     initialize(artboard) {
       if (artboard.name === "Artboard") {
