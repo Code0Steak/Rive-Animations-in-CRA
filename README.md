@@ -30,7 +30,8 @@
    ```
 * Add `myFlareController: new flareController()` as the state of the <App /> Class Component.
 * Finally add the component
-  ```    <FlareComponent
+  ```   
+        <FlareComponent 
           width={1024}
           height={768}
           animationName="Work"
